@@ -1,5 +1,6 @@
 # QR_decomposition
-Используются стандартные функции numpy, а именно numpy.linalg.qr. Вероятная 4-5.
+Используются стандартные функции numpy, а именно numpy.linalg.qr.
+Происходит поиск собственных значений матрицы с помощьюю QR-разложения.
 Использование:
 ```
 Enter matrix by rows separating with ;
